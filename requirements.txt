@@ -1,0 +1,9 @@
+fastapi
+sqlalchemy
+pydantic
+passlib[bcrypt]
+python-dotenv
+httpx
+pymysql
+google-auth
+google-auth-oauthlib
